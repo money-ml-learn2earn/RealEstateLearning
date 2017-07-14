@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/money-ml-learn2earn/RealEstateLearning/issues"
   },
-  "homepage": "https://github.com/money-ml-learn2earn/RealEstateLearning#readme"
+  "homepage": "https://github.com/money-ml-learn2earn/RealEstateLearning#readme",
+  "dependencies": {
+    "google-trends-api": "^4.1.0",
+    "sentiment": "^4.0.0"
+  }
 }

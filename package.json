@@ -1,0 +1,19 @@
+{
+  "name": "real-estate-learning",
+  "version": "0.0.0",
+  "description": "real-estate-learning data fetching server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/money-ml-learn2earn/RealEstateLearning.git"
+  },
+  "author": "team@realestatelearning.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/money-ml-learn2earn/RealEstateLearning/issues"
+  },
+  "homepage": "https://github.com/money-ml-learn2earn/RealEstateLearning#readme"
+}
